@@ -1,12 +1,8 @@
 /**
- * RSI EA v2.mq5
- * Copyright © 2018, Vladimir Karputov
- * http://wmua.ru/slesar/
+ * RSI system
+ *
+ * @origin  https://www.mql5.com/en/code/17284, https://www.mql5.com/en/code/23152
  */
-#property copyright "Copyright © 2018, Vladimir Karputov"
-#property link      "http://wmua.ru/slesar/"
-#property version   "2.000"
-
 #include <Trade\PositionInfo.mqh>
 #include <Trade\Trade.mqh>
 #include <Trade\SymbolInfo.mqh>
